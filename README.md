@@ -34,9 +34,11 @@ TechCorp alcanzó un punto de madurez digital alto (cobertura >85% y adopción >
 3. **Automatizar la Mesa de Ayuda (Nivel 1)** mediante bots conversacionales con IA para reducir el volumen de tickets repetitivos.
 
 ## 📁 Estructura del Repositorio
+```text
 ├── data/               # Dataset original de transformación digital (.xlsx)
 ├── reports/            # Presentación ejecutiva (.pptx) e informe narrativo (.pdf)
 └── README.md           # Resumen ejecutivo del proyecto
+```
 
 ---
 👤 **Autor:** Juan Pablo Donoso Aedo | [LinkedIn](https://www.linkedin.com/in/juanpdonoso/)
